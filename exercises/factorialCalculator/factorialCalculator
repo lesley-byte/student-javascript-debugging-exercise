@@ -1,14 +1,17 @@
+// set a breakpoint🔴
+let number = 5;
+
 function factorial(n) {
   if (n === 0 || n === 1) {
+    // set a breakpoint🔴
     return 1; // Base case: factorial of 0 or 1 is 1
   } else {
-    let result = n * factorial(n - 1);
+    let result = n * factorial(n - 1); // set a breakpoint🔴
     console.log(`Factorial of ${n} is ${result}`);
     return result;
   }
 }
 
 // Calculate factorial of 5
-let number = 5;
 let result = factorial(number);
 console.log(`The factorial of ${number} is ${result}`);

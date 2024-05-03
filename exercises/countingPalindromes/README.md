@@ -8,13 +8,19 @@ A **_palindrome_** is a word, phrase, number, or other sequence of characters th
 
 ---
 
-1. Set Initial Breakpoints
+1. Set Initial Breakpoints 🔴
 
-   - [ ] Start by setting a breakpoint at the line where `countPalindromes` is called and another inside the `isPalindrome` function.
+   - [ ] Start by setting a breakpoint🔴 at the line where `countPalindromes` is called and another inside the `isPalindrome` function.
+   - [ ] Open the Run and Debug sidebar by clicking the play icon in the Activity Bar.
+         ![DebugPlayButton](../../assets/images/debugPlay.png)
+   - [ ] Select "Run and Debug" (choose Node.js if prompted to select an environment).
+         ![RunAndDebug](../../assets/images/runAndDebugButton.png)
+   - [ ] ![Stepping](../../assets/images/stepping.png)
 
 2. Step Over/Into
 
    - [ ] Use the "Step Over" functionality to go through the code line by line at the top level, and "Step Into" to delve into the nested function calls.
+         ![stepBar](../../assets/images/stepBar.png)
 
 3. Track Variables
 
