@@ -1,4 +1,4 @@
-# Debugging Instructions:
+# Counting Palindromes
 
 ## Explaination of Palindromes
 

@@ -1,4 +1,4 @@
-# Debuging Instructions
+# Maximum Number Finder
 
 ## Open the File in VS Code
 

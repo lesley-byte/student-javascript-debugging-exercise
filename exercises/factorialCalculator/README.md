@@ -1,4 +1,4 @@
-# Debugging Instructions for VS Code
+# Factorial Calculator
 
 - [ ] Open the File in VS Code: Ensure that the JavaScript file is open in Visual Studio Code.
 
